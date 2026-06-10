@@ -26,6 +26,7 @@
 8. Done
 
 ## MARVEL COLLECTION ITEM LIST:
+> Main Prefab: **MarvelFull**
 * Infinity Gauntlet (Endgame)
 * Chitauri set (Skin + Jetpack + Rifle + Launcher + Endgame)
 * Buried Treasure (Avengers Version)
@@ -64,3 +65,11 @@
 * Symbiote Scythe (Pickaxe)
 * Symbiote Slasher (Pickaxe)
 * Adamantium Claws (Pickaxe)
+
+## STORM KING COLLECTION ITEM LIST:
+> Note: for stw items youll need to launch stw first and then the session; Main Prefab: StormKingCollectionGenerator
+* Storm Kings Wrath
+* Storm Kings Scourge
+* Storm Kings Onslaught
+* Storm Kings Fury
+* Storm Kings Ravager
