@@ -9,6 +9,9 @@
 4. If youre using any Collections you want to head over to the UnreleasedItems folder and in there you will see Entity Prefabs with the name of a collection (You dont need the to use the content from the collections folder)
 5. Drag the Entity Prefab into your level and if youve done it correctly it should spawn the vending machines at round start
 
+## STW ITEMS
+> In order for STW items to work, you need to launch STW once (its enough if you go to the homebase)
+
 ## ADD NEW ITEMS
 1. Drag the **UnreleasedItemEntity** Entity Prefab in your level and cut/copy it
 2. Use any text editor and paste it in
@@ -67,9 +70,21 @@
 * Adamantium Claws (Pickaxe)
 
 ## STORM KING COLLECTION ITEM LIST:
-> Note: for stw items youll need to launch stw first and then the session; Main Prefab: StormKingCollectionGenerator
+> Main Prefab: StormKingCollectionGenerator
 * Storm Kings Wrath
 * Storm Kings Scourge
 * Storm Kings Onslaught
 * Storm Kings Fury
 * Storm Kings Ravager
+
+## ANIME COLLECTION ITEM LIST:
+> Main Prefab: AnimeCollectionGenerator
+* Airbending
+* Earthbending
+* Waterbending
+* Firebending
+* Hollow Mask
+* Dual Zangetsu
+* ODM Gear
+* Kamehameha
+* Nimbus Cloud
