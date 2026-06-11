@@ -14,6 +14,15 @@
 ## STW ITEMS
 > In order for STW items to work, you need to launch STW once (its enough if you go to the homebase)
 
+## ITEMIZATION OVERRIDE
+> Can be used to change rarity, name, description or icon!
+1. Locate your unreleased_item_collection_component of the entity that youre using
+2. Access the definitions and search for the Item you want to modify
+3. Click **Set to Value** at the **ItemizationOverride** setting
+4. Click **Set to Value** for all the settings you want to override
+5. Done
+> Note: Rarity override will show wrong options at the start just select any rarity and change the value to use mythic/exotic
+
 ## ADD NEW ITEMS
 1. Drag the **UnreleasedItemEntity** Entity Prefab in your level and cut/copy it
 2. Use any text editor and paste it in
@@ -92,3 +101,26 @@
 * ODM Gear
 * Kamehameha
 * Nimbus Cloud
+
+## SIMPSONS COLLECTION ITEM LIST:
+> Main Prefab: SimpsonsCollectionGenerator
+* Blinky Fish
+* Caramber AR
+* Cartoon Chainsaw
+* Chug Jug
+* Chug Splash
+* Cobalt Sling Shot
+* Deodorant Applicator
+* Dragons Belch Shotgun
+* Embiggened AR
+* Fivegun
+* KBBL Keycard
+* Krusty Burger
+* Mr Blasty (Legendary)
+* Krustys Blasty
+* Enhanced Tactical Shotgun
+* Steamed Hams
+* Super Squishee
+* Tamzarian SMG
+* Tomato
+* Mutated Tomato
