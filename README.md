@@ -9,6 +9,8 @@
 4. If youre using any Collections you want to head over to the UnreleasedItems folder and in there you will see Entity Prefabs with the name of a collection (You dont need the to use the content from the collections folder)
 5. Drag the Entity Prefab into your level and if youve done it correctly it should spawn the vending machines at round start
 
+> Video tutorial (a bit outdated you but you just need to download the CoreSystem.zip as well and it should work fine) https://youtu.be/7cmP-dnaHxk
+
 ## STW ITEMS
 > In order for STW items to work, you need to launch STW once (its enough if you go to the homebase)
 
