@@ -28,6 +28,8 @@
 7. Add the Prefab youve just created to an **unreleased_item_collection_component** *(You can use any entity for that)*
 8. Done
 
+> Video tutorial: https://youtu.be/eMGSOQhey6I
+
 ## MARVEL COLLECTION ITEM LIST:
 > Main Prefab: **MarvelFull**
 * Infinity Gauntlet (Endgame)
