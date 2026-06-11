@@ -23,6 +23,8 @@
 5. Done
 > Note: Rarity override will show wrong options at the start just select any rarity and change the value to use mythic/exotic
 
+> Video tutorial: https://youtu.be/-X4J4gl8Js8
+
 ## ADD NEW ITEMS
 1. Drag the **UnreleasedItemEntity** Entity Prefab in your level and cut/copy it
 2. Use any text editor and paste it in
